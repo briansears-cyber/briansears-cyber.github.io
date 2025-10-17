@@ -6,7 +6,7 @@ title: Brian's Cybersecurity Portfolio
 
 I'm a cybersecurity student at Fox Valley Technical College, currently in my third semester and actively building hands-on skills in ethical hacking, troubleshooting, and command-line navigation. I've earned consistent Dean’s List honors and compete in the National Cyber League to sharpen my practical knowledge.
 
-One of my greatest strengths is **communication and emotional intelligence** — qualities that bring a thoughtful perspective and a unique path to a technical career like cybersecurity. I approach challenges with curiosity, clarity, and a strong sense of integrity, and I’m committed to growing both technically and professionally.
+One of my greatest strengths is communication and emotional intelligence — qualities that bring a thoughtful perspective and a unique path to a technical career like cybersecurity. I approach challenges with curiosity, clarity, and a strong sense of integrity, and I’m committed to growing both technically and professionally.
 
 I'm resourceful, driven, and currently seeking a general IT role where I can apply what I’ve learned and continue building toward a career in cybersecurity.
 
@@ -14,7 +14,7 @@ I'm resourceful, driven, and currently seeking a general IT role where I can app
 
 ## 🛠️ Projects
 
-### Python Keylogger – Input Monitoring Tool (Educational Use Only)
+### Python Keylogger – Input Monitoring Tool 
 
 **Description:**  
 Built in Python using Visual Studio Code, this keylogger captures keyboard input and logs it locally. Developed as part of my cybersecurity coursework to explore input monitoring and ethical hacking in a controlled lab environment.
@@ -27,15 +27,14 @@ Python, Visual Studio Code, Windows OS
 - Explored ethical boundaries of monitoring tools  
 - Strengthened troubleshooting and debugging skills
 
-> ⚠️ *This tool was created strictly for educational purposes. Unauthorized use of keyloggers is illegal and unethical.*
 
 ---
 
 ## 📫 Contact
 
-- **Email:** your.email@example.com  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email:** briansears06@yahoo.com
+- **GitHub:** [github.com/briansears-cyber](https://github.com/briansears-cyber)  
+- **LinkedIn:** [linkedin.com/in/brian-sears-36355b32b](https://www.linkedin.com/in/brian-sears-36355b32b)
 
 ---
 
