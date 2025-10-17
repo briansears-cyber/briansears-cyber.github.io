@@ -36,6 +36,8 @@ Python, Visual Studio Code, Windows OS
 - **GitHub:** [github.com/briansears-cyber](https://github.com/briansears-cyber)  
 - **LinkedIn:** [linkedin.com/in/brian-sears-36355b32b](https://www.linkedin.com/in/brian-sears-36355b32b)
 
+📄 **[Download My Resume (PDF)](BrianSears_CyberResume.pdf)**
+
 ---
 
 *This site is hosted securely with GitHub Pages using the Slate theme.*
