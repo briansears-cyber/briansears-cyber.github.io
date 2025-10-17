@@ -2,7 +2,6 @@
 layout: default
 title: Brian's Cybersecurity Portfolio
 ---
-
 # 👋 Hi, I'm Brian
 
 I'm a cybersecurity student at Fox Valley Technical College, currently in my third semester and actively building hands-on skills in ethical hacking, troubleshooting, and command-line navigation. I've earned consistent Dean’s List honors and compete in the National Cyber League to sharpen my practical knowledge.
