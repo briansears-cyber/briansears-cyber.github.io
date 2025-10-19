@@ -27,6 +27,12 @@ Python, Visual Studio Code, Windows OS
 - Explored ethical boundaries of monitoring tools  
 - Strengthened troubleshooting and debugging skills
 
+**Ethical Disclaimer:**  
+This project is intended for educational use only. It was developed in a controlled lab environment to explore cybersecurity concepts and should never be used maliciously or without consent.
+
+**GitHub Repository:**  
+[View the Educational Keylogger on GitHub](https://github.com/briansears-cyber/python-keylogger)
+
 
 ---
 
