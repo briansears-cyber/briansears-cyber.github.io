@@ -4,7 +4,7 @@ title: Brian's Cybersecurity Portfolio
 ---
 # 👋 Hi, I'm Brian
 
-I'm a cybersecurity student at Fox Valley Technical College, currently in my third semester and actively building hands-on skills in ethical hacking, troubleshooting, and command-line navigation. I've earned consistent Dean’s List honors and compete in the National Cyber League to sharpen my practical knowledge.
+I'm a cybersecurity student at Fox Valley Technical College, currently in my fourth and final semester and actively building hands-on skills in ethical hacking, troubleshooting, and command-line navigation. I've earned consistent Dean’s List honors and compete in the National Cyber League to sharpen my practical knowledge.
 
 One of my greatest strengths is communication and emotional intelligence — qualities that bring a thoughtful perspective and a unique path to a technical career like cybersecurity. I approach challenges with curiosity, clarity, and a strong sense of integrity, and I’m committed to growing both technically and professionally.
 
